@@ -1,15 +1,11 @@
-# this program determines if a an inter is
-# postitive, negative or 0
+# this program asks user for number from 1 to 12
+# and gives corresponding number
 
 # input
 guess = int(input("enter a number ie. January = 1...etc "))
 print("")
 
-# process
-n = 0
-
-
-# output
+# Months
 
 print("")
 if guess == 1:
